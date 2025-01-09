@@ -1,0 +1,47 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+
+    #btn-burger {
+        display: none;
+    }
+
+    .header-block {
+        background-color: $light-background;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+
+        .logo {
+            width: 200px;
+        }
+    }
+}
+
+@media screen and (max-width: 391px) {
+    header {
+        .header-block {
+            display: none;
+        }
+
+        #btn-burger {
+            display: block;
+            position: fixed;
+            font-size: 2rem;
+            text-align: center;
+            color: $light-text;
+            background-color: $nav-bg-burger;
+            padding: 0.5rem;
+            width: 42px;
+            top: 0;
+            left: 0;
+            border: 1px solid $nav;
+            cursor: pointer;
+            border-radius: 0 0 25px 0;
+        }
+    }
+}

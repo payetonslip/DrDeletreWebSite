@@ -1,0 +1,1 @@
+<a href="https://www.doctolib.fr/medecin-generaliste/saint-jean/nicolas-deletre/patient-request?category=message" class="button-message">Envoyer un message</a>
