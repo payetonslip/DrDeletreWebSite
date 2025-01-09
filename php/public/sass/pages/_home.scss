@@ -19,27 +19,35 @@
 
     figure {
         line-height: 0;
+        &:hover {
+            figcaption {
+                background-color: $figaption-hover;
+                color: $light-text;
+            }
+
+            img{
+                filter: grayscale(0%);
+            }
+        }
 
         figcaption {
-            background-color: $nav;
+            background-color: $figcaption;
             text-align: center;
             padding: 30px;
             font-weight: 500;
             font-size: 1rem;
             border-radius: 0 0 10px 10px;
+            transition: background-color 0.5s ease-in-out;
         }
 
         img {
             margin: 1rem 0 0 0;
             width: 350px;
             filter: grayscale(100%);
-            transition: ease-in-out 1s;
             border-radius: 10px 10px 0 0;
-        }   
+            transition: filter 0.5s ease-in-out;
 
-        &:hover img {
-            filter: grayscale(0%);
-        }
+        }   
     }
 }
 

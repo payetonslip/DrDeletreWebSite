@@ -2,11 +2,19 @@
 <article class="presa">
     <img src="../img/img-2.png" alt="">
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero fugit eaque perferendis fuga dolores dolorum tempora inventore labore provident ut repudiandae nesciunt harum cum culpa repellat aliquam facilis, cumque neque!
-    Expedita porro fuga obcaecati molestias architecto totam esse maxime inventore id deleniti temporibus reiciendis perferendis, mollitia, tenetur error dicta iste nemo eveniet rerum, debitis odio aliquam explicabo. Iure, consequatur assumenda.
-    Consectetur ducimus facilis praesentium nemo nam unde molestiae quidem nihil enim natus. Iure perspiciatis soluta enim et nam laboriosam eius. Assumenda earum nemo molestiae provident a animi, delectus itaque. Dolore.
-    Doloremque magni sed repudiandae mollitia harum eius iusto ex nesciunt eaque excepturi voluptate, sint, ratione, tenetur commodi delectus quidem maiores sit nemo. Repellendus, a fuga neque perspiciatis deleniti dolorum eius?
-    </p>
+            L'esthétique du sourire et des lèvres est un domaine essentiel en médecine esthétique, qui vise à harmoniser et embellir l'apparence du sourire pour créer une expression faciale plus attractive et accueillante.<br>
+            Un sourire est souvent considéré comme l’un des éléments les plus importants de l’apparence, influençant la perception que les autres ont de nous. Pour améliorer cette esthétique, plusieurs techniques peuvent être utilisées.<br><br>
+
+            L'une des méthodes les plus courantes est l'injection d'acide hyaluronique, qui permet de redonner du volume et de l'hydratation aux lèvres. Cette substance naturelle attire l'eau, offrant un aspect pulpeux et séduisant, tout en définissant les contours des lèvres pour un sourire plus harmonieux.<br><br>
+
+            Le laser médical fractionné non ablatif est également utilisé pour améliorer la texture de la peau autour des lèvres et diminuer les rides péri-orales. Ce traitement stimule la production de collagène, raffermissant la peau et offrant un aspect plus lisse et rajeuni.<br><br>
+
+            Une autre technique consiste en l'injection de toxine botulique, notamment pour traiter le sourire gingival, qui se caractérise par une exposition excessive des gencives lors du sourire. En relaxant les muscles responsables de ce phénomène, on peut obtenir un sourire plus équilibré et esthétique.<br><br>
+
+            Enfin, l'esthétique des dents joue un rôle crucial dans l'apparence globale du sourire. Des dents bien alignées, blanchies et en bonne santé contribuent à une présentation harmonieuse. Des traitements dentaires tels que le blanchiment, les facettes dentaires ou l’orthodontie peuvent améliorer la position des lèvres et rehausser le sourire.<br><br>
+
+            En somme, l’esthétique du sourire et des lèvres repose sur une approche multidisciplinaire, combinant médecine esthétique et soins dentaires pour obtenir des résultats naturels et satisfaisants. Ces techniques permettent d'obtenir un sourire qui reflète confiance et beauté.
+        </p>
 </article>
 <article>
 <h2>Esthétique du visage</h2>
