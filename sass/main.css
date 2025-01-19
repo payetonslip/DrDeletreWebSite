@@ -411,8 +411,9 @@ nav ul li:hover > ul {
   justify-content: space-evenly;
   align-items: center;
 }
-.formation img {
+.formation .img-doctor {
   display: block;
+  width: 500px;
 }
 .formation div {
   display: flex;
