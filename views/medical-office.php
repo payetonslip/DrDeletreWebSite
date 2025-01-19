@@ -7,15 +7,15 @@
 
         Il vous reçoit :
 
-        5 avenue de Lapeyrière, 31240 Saint Jean.
+        <br><br>5 avenue de Lapeyrière, 31240 Saint Jean.
 
-        En téléconsultation dédiée à ces actes si nécessaire.
+        <br><br>En téléconsultation dédiée à ces actes si nécessaire.
     </p>
     <img src="../img/medical-office2.jpg" alt="">
 </article>
 <h2>Son parcours</h2>
 <article class="formation">
-    <img src="../img/dr-nicolas-deletre.jpg" alt="">
+    <img src="../img/dr-nicolas-deletre.jpg" class="img-doctor">
 
     <div>
         <section>
