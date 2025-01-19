@@ -6,5 +6,7 @@
 <img src="../img/Hifu.jpeg" alt="">
 <img src="../img/LED.jpeg" alt="">
 </article>
-<p>Nous suivre sur instagram : </p>
-<a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt="" class="logo-insta"></a>
+<article class="follow">
+    <p>Nous suivre sur instagram : </p>
+    <a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt="" class="logo-insta"></a>
+</article>
