@@ -429,9 +429,10 @@ nav ul li:hover > ul {
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 .news img {
-  width: 600px;
+  width: 550px;
 }
 .news .logo-insta {
   width: 250px;
