@@ -1,6 +1,6 @@
 <h1>Actualités</h1>
 
-<article>
+<article class="news">
 <img src="../img/Attiva.jpeg" alt="">
 <img src="../img/Black.jpeg" alt="">
 <img src="../img/Hifu.jpeg" alt="">

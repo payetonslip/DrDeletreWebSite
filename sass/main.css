@@ -424,6 +424,10 @@ nav ul li:hover > ul {
   width: 500px;
 }
 
+.news img {
+  width: 400px;
+}
+
 .treatment-title {
   padding-top: 3rem;
 }/*# sourceMappingURL=main.css.map */
