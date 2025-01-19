@@ -428,6 +428,7 @@ nav ul li:hover > ul {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .news img {
   width: 600px;
