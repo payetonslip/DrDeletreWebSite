@@ -427,6 +427,7 @@ nav ul li:hover > ul {
 .news {
   display: flex;
   gap: 20px;
+  flex-wrap: wrap;
 }
 .news img {
   width: 600px;
