@@ -3,9 +3,9 @@
     <p>
         Médecin généraliste depuis plusieurs années, le Docteur DELETRE Nicolas vous accueille à son cabinet pour des consultations d’alopécie (chute des cheveux), de médecine régénérative et de médecine esthétique, morphologique et anti-âge.
 
-        La prise de rendez-vous s’effectue par Doctolib, et tout acte nécessite une consultation initiale avant programmation de soins à visée esthétique.
+        <br><br>La prise de rendez-vous s’effectue par Doctolib, et tout acte nécessite une consultation initiale avant programmation de soins à visée esthétique.
 
-        Il vous reçoit :
+        <br><br>Il vous reçoit :
 
         <br><br>5 avenue de Lapeyrière, 31240 Saint Jean.
 
