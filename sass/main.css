@@ -424,8 +424,12 @@ nav ul li:hover > ul {
   width: 500px;
 }
 
+.news {
+  display: flex;
+  gap: 20px;
+}
 .news img {
-  width: 400px;
+  width: 600px;
 }
 
 .treatment-title {
