@@ -8,5 +8,5 @@
 </article>
 <article class="follow">
     <h2>Nous suivre sur instagram : </h2>
-    <a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt="" class="logo-insta"></a>
+    <a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt=""></a>
 </article>
