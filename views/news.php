@@ -5,5 +5,5 @@
 <img src="../img/Black.jpeg" alt="">
 <img src="../img/Hifu.jpeg" alt="">
 <img src="../img/LED.jpeg" alt="">
-<a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt=""></a>
+<a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt="" class="logo-insta"></a>
 </article>

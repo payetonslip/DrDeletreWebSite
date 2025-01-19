@@ -433,6 +433,9 @@ nav ul li:hover > ul {
 .news img {
   width: 600px;
 }
+.news img .logo-insta {
+  width: 300px;
+}
 
 .treatment-title {
   padding-top: 3rem;
