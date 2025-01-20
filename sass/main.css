@@ -374,6 +374,9 @@ nav ul li:hover > ul {
   .presa img {
     width: 300px;
   }
+  .grid figure {
+    line-height: 1;
+  }
   .grid figure figcaption {
     font-size: 0.8rem;
     padding: 20px;
