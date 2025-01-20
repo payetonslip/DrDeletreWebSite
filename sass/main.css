@@ -443,6 +443,9 @@ nav ul li:hover > ul {
   align-items: center;
   padding: 25px;
 }
+.follow a {
+  line-height: 0;
+}
 .follow a img {
   width: 150px;
 }
