@@ -410,6 +410,7 @@ nav ul li:hover > ul {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  padding-bottom: 3rem;
 }
 .formation .img-doctor {
   width: 350px;
