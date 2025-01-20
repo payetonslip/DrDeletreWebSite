@@ -4,17 +4,23 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+
     img {
         width: 550px;
         padding: 5px;
-    } 
+    }
 }
+
 .follow {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    img {
-        max-width: 200px;
+
+    a {
+        img {
+            min-width: 200px;
+        }
     }
+
 }
