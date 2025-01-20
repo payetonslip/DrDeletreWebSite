@@ -71,13 +71,13 @@
     .grid {
         figure {
             figcaption {
-              font-size: 0.9rem;
+              font-size: 1.5rem;
               padding: 20px;
             }
       
             img {
-              width: 100%; // Prend toute la largeur disponible
-              max-width: 280px; // Limite maximale pour les petites résolutions
+              width: 100%;
+              max-width: 280px; 
             }
         
     }
