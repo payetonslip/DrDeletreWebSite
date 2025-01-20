@@ -435,6 +435,7 @@ nav ul li:hover > ul {
 .news img {
   width: 550px;
   padding: 25px;
+  border-radius: 10px;
 }
 
 .follow {
