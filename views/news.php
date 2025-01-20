@@ -7,6 +7,6 @@
 <img src="../img/LED.jpeg" alt="">
 </article>
 <article class="follow">
-    <h2>Nous suivre sur instagram : </h2>
+    <h2>Nous suivre sur instagram</h2>
     <a href="https://www.instagram.com/"><img src="../img/instagram-logo-png-transparent-background.png" alt=""></a>
 </article>

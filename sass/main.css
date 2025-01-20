@@ -433,7 +433,7 @@ nav ul li:hover > ul {
 }
 .news img {
   width: 550px;
-  padding: 5px;
+  padding: 25px;
 }
 
 .follow {
@@ -443,7 +443,7 @@ nav ul li:hover > ul {
   align-items: center;
 }
 .follow a img {
-  width: 200px;
+  width: 150px;
 }
 
 .treatment-title {
