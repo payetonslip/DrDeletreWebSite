@@ -315,6 +315,24 @@ nav ul li:hover > ul {
   filter: grayscale(100%);
 }
 
+@media screen and (max-width: 391px) {
+  .contact {
+    flex-direction: column;
+    padding: 2rem;
+  }
+  .contact div {
+    text-align: center;
+  }
+  .contact .contact-button {
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  .map-container .map {
+    padding: 2rem;
+    width: 90vw;
+    height: 40vh;
+  }
+}
 .presa {
   display: flex;
   justify-content: space-around;
