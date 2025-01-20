@@ -415,6 +415,33 @@ nav ul li:hover > ul {
   width: 500px;
 }
 
+@media screen and (max-width: 391px) {
+  .presa-office {
+    flex-direction: column;
+    padding: 2rem;
+  }
+  .presa-office p {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .presa-office img {
+    width: 100%;
+    max-width: 300px;
+  }
+  .formation {
+    flex-direction: column;
+    padding: 2rem 1rem;
+  }
+  .formation .img-doctor {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 1rem;
+  }
+  .formation div section {
+    width: 100%;
+  }
+}
 .news {
   display: flex;
   gap: 20px;
