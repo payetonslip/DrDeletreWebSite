@@ -374,6 +374,9 @@ nav ul li:hover > ul {
   .presa img {
     width: 300px;
   }
+  .grid figure img {
+    width: 60px;
+  }
 }
 .presa-office {
   display: flex;
