@@ -70,10 +70,13 @@
 
     .grid {
         figure {
-            line-height: normal;
+            line-height: normal; // Pour éviter les chevauchements sur mobile
+            display: flex;
+            flex-direction: column; // S'assure que l'image et la figcaption sont bien l'un sous l'autre
+            align-items: center;
             figcaption {
-              font-size: 0.8rem;
-              padding: 20px;
+                font-size: 0.9rem;
+                padding: 20px;
             }
       
             img {

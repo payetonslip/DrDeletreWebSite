@@ -376,9 +376,12 @@ nav ul li:hover > ul {
   }
   .grid figure {
     line-height: normal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .grid figure figcaption {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding: 20px;
   }
   .grid figure img {
