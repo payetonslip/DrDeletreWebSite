@@ -372,7 +372,7 @@ nav ul li:hover > ul {
     text-align: justify;
   }
   .presa img {
-    width: 400px;
+    width: 300px;
   }
   .grid figure figcaption {
     font-size: 0.8rem;
@@ -380,7 +380,7 @@ nav ul li:hover > ul {
   }
   .grid figure img {
     width: 100%;
-    max-width: 280px;
+    max-width: 380px;
   }
 }
 .presa-office {
