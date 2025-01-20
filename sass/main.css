@@ -441,6 +441,7 @@ nav ul li:hover > ul {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  padding: 25px;
 }
 .follow a img {
   width: 150px;
