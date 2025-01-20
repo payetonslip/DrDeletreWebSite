@@ -129,7 +129,6 @@ footer .logo {
 @media screen and (max-width: 391px) {
   footer {
     background-color: #CA907E;
-    margin-top: 4rem;
     padding: 2rem 1rem;
   }
   footer .title-footer {
@@ -374,23 +373,6 @@ nav ul li:hover > ul {
   }
   .presa img {
     width: 300px;
-  }
-  .triptych {
-    flex-direction: column;
-    justify-content: center;
-    margin-top: 3rem;
-  }
-  .triptych figure {
-    margin-bottom: 2rem;
-  }
-  .triptych figure .img-triptych {
-    width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
-  }
-  .triptych figure figcaption {
-    padding: 20px;
-    font-size: 0.9rem;
   }
 }
 .presa-office {
