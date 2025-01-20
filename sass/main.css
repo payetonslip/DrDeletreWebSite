@@ -129,7 +129,6 @@ footer .logo {
 @media screen and (max-width: 391px) {
   footer {
     background-color: #CA907E;
-    padding: 2rem 1rem;
   }
   footer .title-footer {
     text-decoration: none;
@@ -469,6 +468,27 @@ nav ul li:hover > ul {
   width: 150px;
 }
 
+@media screen and (max-width: 391px) {
+  .news {
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+  }
+  .news img {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+  }
+  .follow {
+    padding: 10px;
+  }
+  .follow a {
+    margin: 5px;
+  }
+  .follow a img {
+    width: 100px;
+  }
+}
 .treatment-title {
   padding-top: 3rem;
 }/*# sourceMappingURL=main.css.map */

@@ -25,5 +25,28 @@
             width: 150px;
         }
     }
+}
 
+@media screen and (max-width: 391px) { 
+.news {
+    flex-direction: column; // Les éléments s'empilent verticalement
+    gap: 10px; // Réduit l'espace entre les éléments
+    padding: 10px;
+
+    img {
+      width: 100%; // L'image prend toute la largeur disponible
+      max-width: 300px; // Limite pour éviter des proportions excessives
+      padding: 10px; // Réduit le padding pour économiser de l'espace
+    }
+}
+.follow {
+    padding: 10px; // Réduit le padding global
+
+    a {
+      margin: 5px; // Ajoute un petit espace entre les liens
+      img {
+        width: 100px; // Réduit la taille des images pour les petits écrans
+      }
+}
+}
 }
