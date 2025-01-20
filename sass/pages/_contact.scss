@@ -32,24 +32,24 @@
 
 @media screen and (max-width: 391px) {
     .contact {
-        flex-direction: column; // Les éléments s'empilent verticalement
+        flex-direction: column; 
         padding: 2rem;
 
         div {
-            text-align: center; // Assure le centrage
+            text-align: center;
         }
 
         .contact-button {
-            gap: 1rem; // Réduction de l'espacement entre les boutons
+            gap: 1rem; 
             margin-top: 1rem;
         }
     }
 
     .map-container {
         .map {
-            padding: 2rem; // Réduction du padding pour petits écrans
-            width: 90vw; // Largueur presque complète
-            height: 40vh; // Taille ajustée pour un affichage plus compact
+            padding: 2rem;
+            width: 90vw; 
+            height: 40vh; 
           }
     }
 }
