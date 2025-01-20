@@ -70,10 +70,16 @@
 
     .grid {
         figure {
-            img {
-                width: 60px;
+            figcaption {
+              font-size: 0.9rem;
+              padding: 20px;
             }
-        }
+      
+            img {
+              width: 100%; // Prend toute la largeur disponible
+              max-width: 280px; // Limite maximale pour les petites résolutions
+            }
         
     }
+}
 }
