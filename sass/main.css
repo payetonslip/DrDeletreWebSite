@@ -168,6 +168,9 @@ footer .logo {
     width: 200px;
     margin: 1rem auto;
   }
+  footer #logo-footer {
+    display: none;
+  }
 }
 header {
   position: fixed;
